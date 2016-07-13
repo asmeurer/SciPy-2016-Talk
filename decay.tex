@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage[margin=0in, paperwidth=5.125in, paperheight=0.7in]{geometry}
+\usepackage{pagecolor,lipsum}% http://ctan.org/pkg/{pagecolor,lipsum}
+\usepackage{color}
+
+\begin{document}
+\pagecolor{black}
+
+{\color{white}
+\[
+\frac{\partial x_i}{\partial t} = -\lambda_i x_i(t) + \sum_{i\neq j}{\lambda_j \gamma_{j\to i}}x_j(t)
+\]
+}
+
+\end{document}
