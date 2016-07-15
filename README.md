@@ -6,4 +6,4 @@ or [SciPy 2016 Presentation.key](SciPy 2016 Presentation.key). The keynote
 version has animations (also available on this repo).
 
 
-[Video for this talk](https://www.youtube.com/embed/nmI-cDAUjdE)
+[Video for this talk](https://www.youtube.com/watch?v=nmI-cDAUjdE)
